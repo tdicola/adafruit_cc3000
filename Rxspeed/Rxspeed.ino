@@ -1,5 +1,5 @@
 /*************************************************** 
-  select() and CC3000 read() speed tests
+  select() and CC3000 library available() speed tests
   
   Run generator.py on a machine first, then update the network
   and server IP/port info below to run.
